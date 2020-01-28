@@ -4,8 +4,7 @@
 ## Web Programming CSC 465 
 
 ### Project Description
-   In this app the user can change the background color of the app along with the word displayed in the text box. This is a very simple app that test ability to use Xcode along with View Controllers.
-
+   In this creative project I devloped an artistic repsentation of my resume.  
 ### App Walk-though
 Your project must include two files: index.html, and index.css
  Markup :
