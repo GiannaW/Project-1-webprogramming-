@@ -1,0 +1,74 @@
+body{
+    background-color: aliceblue;
+}
+
+title{
+    color: azure;
+    font-family: 'Press Start 2P', cursive;
+    
+}
+
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+h3{
+    font-family: 'Libre Baskerville', serif;
+}
+
+h4{
+    font-family: 'Six Caps', sans-serif;
+    font-style: italic;
+}
+
+
+li{
+   font-style:italic;
+    
+}
+
+
+
+
+* {
+  max-width: 700px;
+  margin: auto;
+}
+
+
+.left {
+  height: 1000px;
+  width: 45px;
+  background-color: pink;
+  float: left;
+  
+}
+
+.right {
+  height: 1000px;
+  width: 45px;
+  background-color: pink;
+  float: right;
+ 
+}
+
+ 
+
+
+
+
+
+
+.footer {
+    
+  text-align: right;
+  font-family: 'Libre Baskerville', serif;
+   background-color: pink; 
+    
+
+}
+
+
+
