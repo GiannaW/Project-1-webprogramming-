@@ -4,7 +4,7 @@
 ## Web Programming CSC 465 
 
 ### Project Description
-   In this creative project I devloped an artistic repsentation of my resume.  
+   In this creative project I developed an artistic repsentation of my resume.  
 ### App Walk-though
 Your project must include two files: index.html, and index.css
  Markup :
