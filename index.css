@@ -1,16 +1,20 @@
 body{
-    background-color: aliceblue;
+    
+    background-color: #FBDB65;
 }
 
 title{
     color: azure;
     font-family: 'Press Start 2P', cursive;
-    
+
 }
 
 
 h1{
     font-family: 'Press Start 2P', cursive;
+    border-left: thick dotted #CC0088;
+    border-bottom-color: rgb(0, 128, 128);
+    border-bottom-style: double;
 }
 
 
@@ -19,55 +23,72 @@ h3{
 }
 
 h4{
-    font-family: 'Six Caps', sans-serif;
+    font-family: 'Libre Baskerville', serif;
     font-style: italic;
 }
 
 
 li{
-   font-style:italic;
+   
     
+    font-family: 'Cormorant Garamond', serif;
+    font-style:italic;
+
 }
 
 
 
 
 * {
-  max-width: 700px;
-  margin: auto;
+    max-width: 700px;
+    margin: auto;
 }
 
 
 .left {
-  height: 1000px;
-  width: 45px;
-  background-color: pink;
-  float: left;
-  
+    height: 1125px;
+    width: 45px;
+    background-color: pink;
+    float: left;
+
 }
 
 .right {
-  height: 1000px;
-  width: 45px;
-  background-color: pink;
-  float: right;
- 
+    height: 1125px;
+    width: 45px;
+    background-color: pink;
+    float: right;
+
 }
 
- 
 
-
+p{
+    font-family: 'Cormorant Garamond', serif;
+    
+    
+    
+}
 
 
 
 
 .footer {
-    
-  text-align: right;
-  font-family: 'Libre Baskerville', serif;
-   background-color: pink; 
-    
 
+    text-align: right;
+    font-family: 'Libre Baskerville', serif;
+    background-color: pink; 
+
+
+}
+
+#pic-one{
+    height: 30px;
+    float:right;
+       
+    
+   
+         
+    
 }
 
 
